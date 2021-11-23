@@ -12,6 +12,6 @@
 
 <div align="center" width="100%">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&rank=SSS&rank=SS&rank=S&rank=AAA&rank=AA&rank=A&rank=B&rank=C&rank=SECRET&row=1&margin-w=30&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&row=1&title=Stars,Followers,Commits,MultiLanguage,Repositories,PullRequest&margin-w=30&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
