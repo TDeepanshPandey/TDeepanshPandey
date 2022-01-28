@@ -30,9 +30,6 @@ Coder 👨‍💻 with 3.5 years experience as a Data Scientist 👨‍🔬 and 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="50" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" width="50"/>
   </kbd>
-</div>
-<br>
-<div align='center'>
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="50" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50" width="50"/>
