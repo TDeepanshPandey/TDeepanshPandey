@@ -2,7 +2,7 @@
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
 <p align='center' font>
-I am a programmer with 3.5 years experience as a Data Scientist and 1 year as a Software Developer. I have a Masters in Data Science from University of Bonn, Germany and Bachelors in Computer Science and Engineering from Amity University, India.
+Coder 👨‍💻 with 3.5 years experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 🛠️. I completed my Masters 🎓 in Data Science from University of Bonn, Germany 🇩🇪 and Bachelors 🎓 in Computer Science and Engineering from Amity University, India 🇮🇳
 </p>
 
 <h2 align='center'> My Tech and Tools Stack &#x1F5A5; </h2>
@@ -49,6 +49,7 @@ I am a programmer with 3.5 years experience as a Data Scientist and 1 year as a 
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="50" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50"/>
   </kbd>
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" width="50"/>
