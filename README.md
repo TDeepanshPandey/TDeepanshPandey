@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
-<p align='center' font>
-Coder 👨‍💻 with 3.5 years experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 🛠️. I completed my Masters 🎓 in Data Science from University of Bonn, Germany 🇩🇪 and Bachelors 🎓 in Computer Science and Engineering from Amity University, India 🇮🇳
+
+<p align='center'>
+Coder 👨‍💻 with 3.5 years experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 🛠️. I completed my Masters 🎓 in Data Science from University of Bonn, Germany and Bachelors 🎓 in Computer Science and Engineering from Amity University, India. 
 </p>
 
 <h2 align='center'> My Tech and Tools Stack &#x1F5A5; </h2>
@@ -18,7 +19,7 @@ Coder 👨‍💻 with 3.5 years experience as a Data Scientist 👨‍🔬 and 
   |<b>Version Control</b>| | | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>|
   |<b>Operating System</b>| | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />|
   |<b>IDE</b>| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40"/>| <img src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="40"/>
-  |<b>Others</b>| | <img src="https://unpkg.com/simple-icons@6.7.0/icons/amazonaws.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="40"/>|  <img src="https://unpkg.com/simple-icons@6.7.0/icons/apacheairflow.svg" height="40" width="40"/>
+  |<b>Others</b>| | <img src="https://unpkg.com/simple-icons@6/icons/amazonaws.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" width="40"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="40"/>|  <img src="https://unpkg.com/simple-icons@6/icons/apacheairflow.svg" height="40" width="40"/>
 </div>
 
 <h2 align='center'> My Github Stats &#x1f4c8; </h2>
