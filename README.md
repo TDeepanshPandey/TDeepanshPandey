@@ -38,6 +38,8 @@ Coder 👨‍💻 with 3.5 years experience as a Data Scientist 👨‍🔬 and 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="50" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="50" width="50"/>
+    <img src="https://unpkg.com/simple-icons@v6/icons/scikitlearn.svg" height="50" width="50" />
+    <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="50" width="50" />    
   </kbd>
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50"/>
@@ -50,9 +52,9 @@ Coder 👨‍💻 with 3.5 years experience as a Data Scientist 👨‍🔬 and 
   </kbd>
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" height="50" width="50"/>
+    <img src="https://unpkg.com/simple-icons@v6/icons/pycharm.svg" height="50" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="50" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" height="50" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="50" width="50"/>
   </kbd>
 
 </div>
