@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)
-<h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
 
 <p align='center'>
