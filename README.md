@@ -50,7 +50,7 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <div align="center" width="100%">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&row=1&title=Stars,Followers,Commits,MultiLanguage,Repositories,PullRequest&margin-w=30&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&row=1&margin-w=30&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
