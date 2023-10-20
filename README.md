@@ -58,12 +58,6 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <!--START_SECTION:waka-->
 
-```txt
-Python     8 mins          ███████████████████▓░░░░░   78.98 %
-HTML       2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-```
-
 <!--END_SECTION:waka-->
 
 <h2 align='center'> Social Media &#128199; </h2>
