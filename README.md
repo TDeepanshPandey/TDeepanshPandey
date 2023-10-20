@@ -54,7 +54,7 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 </div>
 
-<h2 align='center'> Weekly development breakdown &#128202; </h2>
+<h2 align='center'> Weekly Development Breakdown &#128202; </h2>
 
 <!--START_SECTION:waka-->
 
