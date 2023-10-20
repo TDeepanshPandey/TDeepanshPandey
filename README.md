@@ -59,6 +59,8 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 <!--START_SECTION:waka-->
 
 ```txt
+From: 12 October 2023 - To: 19 October 2023
+
 Total Time: 11 mins
 
 Python     8 mins          >>>>>>>>>>>>>>>>>>>>-----   78.98 %
