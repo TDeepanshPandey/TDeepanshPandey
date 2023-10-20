@@ -3,7 +3,7 @@
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
 
 <p align='center'>
-Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 💻. I completed my Masters 🎓 in Data Science from University of Bonn, Germany and Bachelors &#x1F4DA; in Computer Science and Engineering from Amity University, India. 
+Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 💻. I completed my Masters 🎓 in Data Science from the University of Bonn, Germany and Bachelors &#x1F4DA; in Computer Science and Engineering from Amity University, India. 
 </p>
 
 <h2 align='center'> My Tech and Tools Stack &#x1F5A5; </h2>
