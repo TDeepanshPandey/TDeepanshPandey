@@ -54,6 +54,10 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 </div>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <h2 align='center'> Social Media &#128199; </h2>
 
 <div align="center">
