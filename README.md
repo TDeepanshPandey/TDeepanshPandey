@@ -63,13 +63,13 @@ From: 18 October 2023 - To: 25 October 2023
 
 Total Time: 3 hrs 38 mins
 
-JSON         2 hrs 1 min     >>>>>>>>>>>>>>-----------   55.18 %
+React JS     2 hrs 22 mins   >>>>>>>>>>>>>>>>---------   65.00 %
 Markdown     23 mins         >>>----------------------   10.73 %
-JavaScript   21 mins         >>-----------------------   09.82 %
 Git Config   19 mins         >>-----------------------   08.68 %
 HTML         11 mins         >------------------------   05.28 %
 TypeScript   9 mins          >------------------------   04.45 %
 Python       9 mins          >------------------------   04.10 %
+INI          2 mins          -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->
