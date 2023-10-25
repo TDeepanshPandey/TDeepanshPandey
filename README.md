@@ -55,7 +55,7 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 </div>
 
 <h2 align='center'> Weekly Development Breakdown &#128202; </h2>
-
+<div align='center'>
 <!--START_SECTION:waka-->
 
 ```python
@@ -71,7 +71,7 @@ Markdown     1 min           >------------------------   04.23 %
 ```
 
 <!--END_SECTION:waka-->
-
+</div>
 <h2 align='center'> Social Media &#128199; </h2>
 
 <div align="center">
