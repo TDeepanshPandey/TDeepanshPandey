@@ -39,10 +39,10 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <div align="center">
 <a href="https://github.com/TDeepanshPandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=onedark&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=slateorange&langs_count=3&card_width=500px" />
 </a>
 <a href="https://github.com/TDeepanshPandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TDeepanshPandey&show_icons=true&line_height=27&theme=onedark&include_all_commits=true" alt="TDP's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TDeepanshPandey&show_icons=true&line_height=27&theme=slateorange&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=issues,contribs" alt="TDP's GitHub Stats" />
 </a>
 </div>
   
@@ -50,7 +50,7 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <div align="center" width="100%">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&row=1&margin-w=30&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
