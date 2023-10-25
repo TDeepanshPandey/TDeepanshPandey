@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 8,15,23 * * *"
+    - timezone: Europe/Berlin
 
 jobs:
   update-readme:
