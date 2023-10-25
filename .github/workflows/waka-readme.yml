@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    - cron: "0 20,22 * * *"
+    - cron: "0 8,15,23 * * *"
 
 jobs:
   update-readme:
