@@ -18,6 +18,7 @@ jobs:
           SECTION_NAME: waka # optional
           CODE_LANG: python # optional
           BLOCKS: -> 
+          LANG_COUNT: 10
           TIME_RANGE: last_7_days # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
