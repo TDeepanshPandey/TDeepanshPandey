@@ -39,7 +39,7 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <div align="center">
 <a href="https://github.com/TDeepanshPandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=slateorange&langs_count=3&card_width=500px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=slateorange&langs_count=3" />
 </a>
 <a href="https://github.com/TDeepanshPandey">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TDeepanshPandey&show_icons=true&line_height=27&theme=slateorange&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=issues,contribs" alt="TDP's GitHub Stats" />
