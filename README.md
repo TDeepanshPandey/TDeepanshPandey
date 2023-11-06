@@ -3,7 +3,7 @@
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
 
 <p align='center'>
-Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 💻. I completed my Masters 🎓 in Data Science from University of Bonn, Germany and Bachelors &#x1F4DA; in Computer Science and Engineering from Amity University, India. 
+Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 💻. I completed my Masters 🎓 in Data Science from the University of Bonn, Germany and Bachelors &#x1F4DA; in Computer Science and Engineering from Amity University, India. 
 </p>
 
 <h2 align='center'> My Tech and Tools Stack &#x1F5A5; </h2>
@@ -24,7 +24,7 @@ Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨�
 
 <h2 align='center'> Certifications &#x1F4DC; </h2>
 <p align='center'>
-I have completed more than 30 certificates on online elearning platforms Udemy and Coursera. Other than that I have am a certified. 
+I have completed more than 30 certificates on online elearning platforms Udemy and Coursera. Other than that I am certified. 
 </p>
 <p align='center'>
 <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/microsoft-certified-azure-fundamentals.png" height="150">
@@ -39,10 +39,10 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <div align="center">
 <a href="https://github.com/TDeepanshPandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=onedark&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=slateorange&langs_count=3" />
 </a>
 <a href="https://github.com/TDeepanshPandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TDeepanshPandey&show_icons=true&line_height=27&theme=onedark&include_all_commits=true" alt="TDP's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TDeepanshPandey&show_icons=true&line_height=27&theme=slateorange&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=issues,contribs" alt="TDP's GitHub Stats" />
 </a>
 </div>
   
@@ -50,14 +50,30 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <div align="center" width="100%">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&row=1&margin-w=30&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TDeepanshPandey&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<h2 align='center'> Weekly Development Breakdown &#128202; </h2>
+<div align='center'>
 <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+```python
+From: 28 October 2023 - To: 04 November 2023
 
+Total Time: 6 hrs 13 mins
+
+React JS     2 hrs 58 mins   >>>>>>>>>>>>-------------   47.69 %
+HTML         1 hr 43 mins    >>>>>>>------------------   27.61 %
+PHP          34 mins         >>-----------------------   09.28 %
+Text         21 mins         >------------------------   05.69 %
+Git Config   14 mins         >------------------------   03.83 %
+CSS          13 mins         >------------------------   03.62 %
+Python       6 mins          -------------------------   01.65 %
+```
+
+<!--END_SECTION:waka-->
+</div>
 <h2 align='center'> Social Media &#128199; </h2>
 
 <div align="center">

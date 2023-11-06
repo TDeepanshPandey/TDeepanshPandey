@@ -4,8 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 8,15,23 * * *"
 
 jobs:
   update-readme:
@@ -15,3 +14,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          CODE_LANG: python # optional
+          BLOCKS: -> 
+          LANG_COUNT: 7
+          TIME_RANGE: last_7_days # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
