@@ -59,15 +59,15 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 December 2023 - To: 12 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Total Time: 10 hrs 11 mins
+Total Time: 5 hrs 37 mins
 
-Python       9 hrs 19 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.02 %
-React JS     51 mins         >>-----------------------   08.32 %
-Other        3 mins          -------------------------   00.59 %
-Git Config   0 secs          -------------------------   00.06 %
-INI          0 secs          -------------------------   00.01 %
+Python       4 hrs 54 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.38 %
+React JS     42 mins         >>>----------------------   12.44 %
+Other        3 mins          -------------------------   01.07 %
+Git Config   0 secs          -------------------------   00.09 %
+INI          0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
