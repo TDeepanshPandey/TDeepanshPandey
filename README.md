@@ -59,11 +59,13 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 December 2023 - To: 27 December 2023
+From: 21 December 2023 - To: 28 December 2023
 
 Total Time: 0 secs
 
-No activity tracked
+HTML       0 secs          >>>>>>>>>>>--------------   44.02 %
+React JS   0 secs          >>>>>>>>-----------------   31.50 %
+CSS        0 secs          >>>>>>-------------------   24.48 %
 ```
 
 <!--END_SECTION:waka-->
