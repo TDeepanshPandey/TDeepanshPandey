@@ -59,12 +59,12 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 <!--START_SECTION:waka-->
 
 ```python
-From: 23 April 2024 - To: 30 April 2024
+From: 24 April 2024 - To: 01 May 2024
 
 Total Time: 3 hrs 42 mins
 
-Python     3 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.76 %
-React JS   2 mins          -------------------------   01.24 %
+Python     3 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.77 %
+React JS   2 mins          -------------------------   01.23 %
 Other      2 mins          -------------------------   01.00 %
 ```
 
