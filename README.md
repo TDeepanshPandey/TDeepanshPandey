@@ -59,17 +59,17 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
-Total Time: 13 hrs 47 mins
+Total Time: 13 hrs 38 mins
 
-Python            7 hrs 50 mins   >>>>>>>>>>>>>>-----------   55.90 %
-Dart              2 hrs 55 mins   >>>>>--------------------   20.87 %
-React JS          1 hr 9 mins     >>-----------------------   08.21 %
-Groovy            40 mins         >------------------------   04.85 %
-Docker            26 mins         >------------------------   03.11 %
-XML               25 mins         >------------------------   03.00 %
-Other             13 mins         -------------------------   01.66 %
+Python            7 hrs 50 mins   >>>>>>>>>>>>>>-----------   56.54 %
+Dart              2 hrs 47 mins   >>>>>--------------------   20.16 %
+React JS          1 hr 9 mins     >>-----------------------   08.31 %
+Groovy            39 mins         >------------------------   04.70 %
+Docker            26 mins         >------------------------   03.15 %
+XML               25 mins         >------------------------   03.03 %
+Other             13 mins         -------------------------   01.68 %
 ```
 
 <!--END_SECTION:waka-->
