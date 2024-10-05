@@ -24,7 +24,7 @@ Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨�
 
 <h2 align='center'> Certifications &#x1F4DC; </h2>
 <p align='center'>
-I have completed more than 30 certificates on online elearning platforms Udemy and Coursera. Other than that I am certified. 
+I have completed more than 31 certificates on online elearning platforms <a href="https://www.udemy.com/user/deepansh-pandey/">Udemy</a> and <a href="https://www.coursera.org/user/e168e73aeb4bcf3f4d9558bdb0a8543c">Coursera</a>. Other than that I am certified. 
 </p>
 <p align='center'>
 <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/microsoft-certified-azure-fundamentals.png" height="150">
