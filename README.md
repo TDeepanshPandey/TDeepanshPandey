@@ -59,7 +59,7 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:waka-->
 
 ```python
-From: 11 October 2024 - To: 18 October 2024
+From: 12 October 2024 - To: 19 October 2024
 
 Total Time: 4 hrs 8 mins
 
