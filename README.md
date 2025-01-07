@@ -59,11 +59,14 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 December 2024 - To: 05 January 2025
+From: 30 December 2024 - To: 06 January 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 34 mins
 
-No activity tracked
+React JS   2 hrs 24 mins   >>>>>>>>>>>>>>>>>>>>>>>--   93.32 %
+Python     10 mins         >>-----------------------   06.45 %
+Other      0 secs          -------------------------   00.15 %
+SCSS       0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
