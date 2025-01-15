@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)
+![profile_views](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)  [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87.svg)](https://wakatime.com/@d9585be0-a800-4e7a-9c42-e2fb31c12a87)
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
 
@@ -12,7 +12,7 @@ Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨�
   |<b>Programming Languages</b>| | <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/c%2B%2B.svg" height="40" width="40" />| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/python.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/java.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/r.svg" height="40" width="40"/> |
   |    :----:   |    :----:   |  :----:   |  :----:   |  :----:   |   :----:   |
   |<b>Databases</b>| | <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/f9f366da86360ef0673c067aeb816c62efa06375/img/neo4j.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/f9f366da86360ef0673c067aeb816c62efa06375/img/sql.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/f9f366da86360ef0673c067aeb816c62efa06375/img/mongo-db.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/f9f366da86360ef0673c067aeb816c62efa06375/img/hive.svg" height="40" width="40"/>|
-  |<b>Web Development</b>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/reactjs.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/html5.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/css3.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/bootstrap.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/jQuery.svg" height="40" width="40"/>|
+  |<b>Web Development</b>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/js.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/html5.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/css3.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/bootstrap.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/React-icon.png" height="40" width="40"/>|
   |<b>Data Science</b>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/numpy.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/pandas.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/tensorflow.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/scikitlearn.svg" height="40" width="40" />| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/huggingface.png" height="40" width="40" />| 
   |<b>Python Framework</b>| | | | <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/django.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/flask.svg" height="40" width="40"/>|
   |<b>Package Manager</b>| | | <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/yarn.svg" height="40" width="40"/> | <img src="https://raw.githubusercontent.com/TDeepanshPandey/TDeepanshPandey/main/img/anaconda.svg" height="40" width="40"/>| <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/img/nodejs.svg" height="40" width="40"/>|
@@ -24,7 +24,7 @@ Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨�
 
 <h2 align='center'> Certifications &#x1F4DC; </h2>
 <p align='center'>
-I have completed more than 30 certificates on online elearning platforms Udemy and Coursera. Other than that I am certified. 
+I have completed more than 31 certificates on online elearning platforms <a href="https://www.udemy.com/user/deepansh-pandey/">Udemy</a> and <a href="https://www.coursera.org/user/e168e73aeb4bcf3f4d9558bdb0a8543c">Coursera</a>. Other than that I am certified. 
 </p>
 <p align='center'>
 <img src="https://github.com/TDeepanshPandey/TDeepanshPandey/blob/main/microsoft-certified-azure-fundamentals.png" height="150">
@@ -39,10 +39,10 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 
 <div align="center">
 <a href="https://github.com/TDeepanshPandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=slateorange&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-deepansh.vercel.app/api/top-langs/?username=TDeepanshPandey&theme=slateorange&langs_count=3" />
 </a>
 <a href="https://github.com/TDeepanshPandey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TDeepanshPandey&show_icons=true&line_height=27&theme=slateorange&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=issues,contribs" alt="TDP's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-deepansh.vercel.app/api?username=TDeepanshPandey&show_icons=true&line_height=27&theme=slateorange&include_all_commits=true&rank_icon=github&show=prs_merged,prs_merged_percentage&hide=issues,contribs" alt="TDP's GitHub Stats" />
 </a>
 </div>
   
@@ -59,17 +59,17 @@ I have completed more than 30 certificates on online elearning platforms Udemy a
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 October 2023 - To: 04 November 2023
+From: 07 January 2025 - To: 14 January 2025
 
-Total Time: 6 hrs 13 mins
+Total Time: 8 hrs 52 mins
 
-React JS     2 hrs 58 mins   >>>>>>>>>>>>-------------   47.69 %
-HTML         1 hr 43 mins    >>>>>>>------------------   27.61 %
-PHP          34 mins         >>-----------------------   09.28 %
-Text         21 mins         >------------------------   05.69 %
-Git Config   14 mins         >------------------------   03.83 %
-CSS          13 mins         >------------------------   03.62 %
-Python       6 mins          -------------------------   01.65 %
+Python       4 hrs 55 mins   >>>>>>>>>>>>>>-----------   54.62 %
+React JS     1 hr 52 mins    >>>>>--------------------   20.86 %
+YAML         1 hr 40 mins    >>>>>--------------------   18.48 %
+Markdown     18 mins         >------------------------   03.39 %
+Other        8 mins          -------------------------   01.66 %
+Makefile     4 mins          -------------------------   00.88 %
+Text         0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
