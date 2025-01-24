@@ -59,17 +59,17 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:waka-->
 
 ```python
-From: 15 January 2025 - To: 22 January 2025
+From: 16 January 2025 - To: 23 January 2025
 
-Total Time: 14 hrs 39 mins
+Total Time: 13 hrs 16 mins
 
-Python       7 hrs 13 mins   >>>>>>>>>>>>-------------   49.24 %
-React JS     3 hrs 15 mins   >>>>>>-------------------   22.21 %
-Terraform    3 hrs 13 mins   >>>>>>-------------------   22.04 %
-YAML         26 mins         >------------------------   02.98 %
-Markdown     20 mins         >------------------------   02.38 %
-Makefile     9 mins          -------------------------   01.05 %
-Git Config   0 secs          -------------------------   00.06 %
+Python      6 hrs 26 mins   >>>>>>>>>>>>-------------   48.51 %
+React JS    3 hrs 8 mins    >>>>>>-------------------   23.68 %
+Terraform   3 hrs           >>>>>>-------------------   22.69 %
+YAML        22 mins         >------------------------   02.88 %
+Makefile    9 mins          -------------------------   01.16 %
+Markdown    8 mins          -------------------------   01.08 %
+HCL         0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
