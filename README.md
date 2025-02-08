@@ -59,16 +59,16 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-Total Time: 3 hrs 32 mins
+Total Time: 1 hr 44 mins
 
-Python       1 hr 47 mins    >>>>>>>>>>>>>------------   50.63 %
-React JS     1 hr 29 mins    >>>>>>>>>>>--------------   42.28 %
-Markdown     14 mins         >>-----------------------   06.91 %
-TypeScript   0 secs          -------------------------   00.09 %
-YAML         0 secs          -------------------------   00.08 %
-HTML         0 secs          -------------------------   00.02 %
+React JS     1 hr 22 mins    >>>>>>>>>>>>>>>>>>>>-----   79.20 %
+Python       19 mins         >>>>>--------------------   18.57 %
+Markdown     1 min           -------------------------   01.86 %
+TypeScript   0 secs          -------------------------   00.19 %
+YAML         0 secs          -------------------------   00.16 %
+HTML         0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
