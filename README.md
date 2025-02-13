@@ -33,7 +33,7 @@ I have completed more than 31 certificates on online elearning platforms <a href
 
 <div align='center'>
 
-[![GitHub Streak](https://github-readme-streak-stats-lake-alpha.vercel.app?user=TDeepanshPandey&theme=whatsapp-dark2&hide_border=true&card_width=200&background=36393F&stroke=E4E2E2&sideLabels=FAA627&dates=E4E2E2&fire=DA5B0B&currStreakLabel=FAA627&ring=625FB9&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-lake-alpha.vercel.app?user=TDeepanshPandey&theme=whatsapp-dark2&hide_border=true&card_width=200&background=36393F&stroke=E4E2E2&sideLabels=FAA627&dates=E4E2E2&fire=DA5B0B&currStreakLabel=FAA627&ring=0f74d4&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 
