@@ -93,3 +93,7 @@ Other        2 mins          -------------------------   00.35 %
 <a href="https://www.coursera.org/user/e168e73aeb4bcf3f4d9558bdb0a8543c">![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)</a>  
   
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
