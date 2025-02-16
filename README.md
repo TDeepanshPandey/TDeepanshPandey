@@ -1,5 +1,15 @@
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
+<!--START_SECTION:SHOW_PROFILE_VIEWS-->
+
+<!--END_SECTION:SHOW_PROFILE_VIEWS-->
+
+<!--START_SECTION:SHOW_SHORT_INFO-->
+
+<!--END_SECTION:SHOW_SHORT_INFO-->
+
 ![profile_views](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)  [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87.svg)](https://wakatime.com/@d9585be0-a800-4e7a-9c42-e2fb31c12a87)
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
