@@ -7,8 +7,8 @@ on:
     - cron: "0 8,15,23 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  waka-weekly-stats:
+    name: WakaTime Weekly Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
@@ -22,3 +22,13 @@ jobs:
           TIME_RANGE: last_7_days # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
+  
+  waka-more-metrics:
+    name: WakaTime More Dev Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
