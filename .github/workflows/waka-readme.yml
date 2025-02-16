@@ -44,5 +44,6 @@ jobs:
           SHOW_EDITORS: false
           SHOW_OS: false
           SHOW_LANGUAGE: false
+          SHOW_UPDATED_DATE: false
           
           
