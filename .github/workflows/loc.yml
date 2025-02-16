@@ -15,8 +15,8 @@ jobs:
       - name: Count Lines of Code
         uses: PavanMudigonda/lines-of-code-reporter@v1.6
         with:
-          directory:./
-          github_token: ${{ secrets.GH_TOKEN }}
+            directory: ./
+            github_token: ${{ secrets.GH_TOKEN }}
 
       - name: print output # Optional
         shell: pwsh
