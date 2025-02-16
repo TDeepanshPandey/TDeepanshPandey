@@ -15,7 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
+          SECTION_NAME: weeklydev # optional
           CODE_LANG: python # optional
           BLOCKS: -> 
           LANG_COUNT: 7
@@ -31,4 +31,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: true
 

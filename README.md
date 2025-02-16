@@ -1,11 +1,3 @@
-<!--START_SECTION:SHOW_PROFILE_VIEWS-->
-
-<!--END_SECTION:SHOW_PROFILE_VIEWS-->
-
-<!--START_SECTION:SHOW_SHORT_INFO-->
-
-<!--END_SECTION:SHOW_SHORT_INFO-->
-
 ![profile_views](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)  [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87.svg)](https://wakatime.com/@d9585be0-a800-4e7a-9c42-e2fb31c12a87)
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
@@ -70,7 +62,7 @@ I have completed more than 31 certificates on online elearning platforms <a href
 
 <h2 align='center'> Weekly Development Breakdown &#128202; </h2>
 <div align='center'>
-<!--START_SECTION:waka-->
+<!--START_SECTION:weeklydev-->
 
 ```python
 From: 08 February 2025 - To: 15 February 2025
@@ -86,7 +78,7 @@ C++          22 mins         >------------------------   02.90 %
 Other        2 mins          -------------------------   00.35 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:weeklydev-->
 </div>
 <h2 align='center'> Social Media &#128199; </h2>
 
@@ -101,3 +93,8 @@ Other        2 mins          -------------------------   00.35 %
 <a href="https://www.coursera.org/user/e168e73aeb4bcf3f4d9558bdb0a8543c">![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)</a>  
   
 </div>
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
