@@ -13,16 +13,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Count Lines of Code
-        uses: marketplace/actions/lines-of-code@main
+        uses: PavanMudigonda/lines-of-code-reporter@v1.6
         with:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          directory:./
+          github_token: ${{ secrets.GH_TOKEN }}
 
-      - name: Update README.md
-        run: |
-          echo "### Total Lines of Code in My GitHub Repositories 🚀" > loc.md
-          cat loc.md README.md > newREADME.md && mv newREADME.md README.md
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Updated LOC in README.md" || echo "No changes to commit"
-          git push
+      - name: print output # Optional
+        shell: pwsh
+        run: | 
+          Write-Host 'Total Lines of Code...:  ${{ steps.loc.outputs.total_lines }}'
+          Write-Host 'Lines of Code Markdown Report Path...:  ${{ steps.loc.outputs.loc_report }}' 
+
+      # Publish Lines of Code Summary  # Optional
+      - name: Add Lines of Code Summary
+        run: echo "${{ steps.loc.outputs.lines-of-code-summary }}" >> $GITHUB_STEP_SUMMARY
+
