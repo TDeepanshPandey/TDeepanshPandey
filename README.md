@@ -1,9 +1,13 @@
-![profile_views](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)  [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87.svg)](https://wakatime.com/@d9585be0-a800-4e7a-9c42-e2fb31c12a87) ![Stars](https://img.shields.io/github/stars/tdeepanshpandey?label=Stars&style=style=for-the-badge) ![Views](https://img.shields.io/youtube/channel/views/UCtlQgM6FwSKVk_qkdCv9xZA)
-<h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+![profile_views](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)  [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87.svg)](https://wakatime.com/@d9585be0-a800-4e7a-9c42-e2fb31c12a87) ![Stars](https://img.shields.io/github/stars/tdeepanshpandey?label=Stars&style=style=for-the-badge) ![Views](https://img.shields.io/youtube/channel/views/UCtlQgM6FwSKVk_qkdCv9xZA) ![Views](https://img.shields.io/youtube/channel/views/UCiE2xVSGU2ZDiBgX5tVcNWg)
+
+<h1 align='center' style="border-bottom: none;">
+  Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+</h1>
+
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
 
 <p align='center'>
-Programmer 🤓 with 3.5 years professional experience as a Data Scientist 👨‍🔬 and 1 year as a Software Developer 💻. I completed my Masters 🎓 in Data Science from the University of Bonn, Germany and Bachelors &#x1F4DA; in Computer Science and Engineering from Amity University, India. 
+Programmer 🤓 with 3.5 years of professional experience as a Data Scientist 👨‍🔬 and 3 years as a Software Developer 💻. I completed my Masters 🎓 in Artificial Intelligence from the University of Bonn, Germany and Bachelors &#x1F4DA; in Computer Science and Engineering from Amity University, India. 
 </p>
 
 <h2 align='center'> My Tech and Tools Stack &#x1F5A5; </h2>
