@@ -1,4 +1,4 @@
-![profile_views](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)  [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87.svg)](https://wakatime.com/@d9585be0-a800-4e7a-9c42-e2fb31c12a87) ![Stars](https://img.shields.io/github/stars/tdeepanshpandey?label=Stars&style=style=for-the-badge)
+![profile_views](https://komarev.com/ghpvc/?username=TDeepanshPandey&style=flat-square)  [![wakatime](https://wakatime.com/badge/user/d9585be0-a800-4e7a-9c42-e2fb31c12a87.svg)](https://wakatime.com/@d9585be0-a800-4e7a-9c42-e2fb31c12a87) ![Stars](https://img.shields.io/github/stars/tdeepanshpandey?label=Stars&style=style=for-the-badge) ![Views](https://img.shields.io/youtube/channel/views/UCtlQgM6FwSKVk_qkdCv9xZA)
 <h1 align='center'> Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <i><h3 align='center'> I'm Deepansh Pandey</h3></i>
 
