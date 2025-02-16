@@ -37,3 +37,9 @@ jobs:
           SHOW_DAYS_OF_WEEK: false
           SHOW_SHORT_INFO: false
           SYMBOL_VERSION: 3
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LOC_CHART: false
+          
+          
