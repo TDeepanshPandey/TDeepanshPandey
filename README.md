@@ -82,7 +82,6 @@ YAML   51 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <div align="center">
   
-<a href="https://www.quora.com/profile/Deepansh-Pandey">![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)</a>
 <a href="https://www.hackerrank.com/deepansh_pandey">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/UCtlQgM6FwSKVk_qkdCv9xZA">![YouTube](https://img.shields.io/badge/AI_Simplified-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/thedeepanshpandey/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
