@@ -69,11 +69,11 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 14 July 2025 - To: 21 July 2025
+From: 15 July 2025 - To: 22 July 2025
 
-Total Time: 20 mins
+Total Time: 25 mins
 
-YAML   20 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+YAML   25 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:weeklydev-->
