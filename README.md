@@ -69,7 +69,7 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
 Total Time: 0 secs
 
