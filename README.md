@@ -69,13 +69,11 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 04 November 2025 - To: 11 November 2025
+From: 05 November 2025 - To: 12 November 2025
 
 Total Time: 0 secs
 
-React JS   0 secs          >>>>>>>>>>>>>>>----------   59.12 %
-Other      0 secs          >>>>>>>>>----------------   37.21 %
-Python     0 secs          >------------------------   03.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:weeklydev-->
