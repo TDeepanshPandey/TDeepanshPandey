@@ -69,17 +69,17 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 04 December 2025 - To: 11 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 10 hrs 18 mins
+Total Time: 8 hrs 8 mins
 
-Python     6 hrs 18 mins   >>>>>>>>>>>>>>>----------   59.71 %
-React JS   2 hrs 16 mins   >>>>>--------------------   21.53 %
-TOML       33 mins         >------------------------   05.26 %
-YAML       32 mins         >------------------------   05.07 %
-Docker     20 mins         >------------------------   03.29 %
-Other      15 mins         >------------------------   02.44 %
-Markdown   14 mins         >------------------------   02.22 %
+Python     4 hrs 43 mins   >>>>>>>>>>>>>>-----------   57.45 %
+React JS   1 hr 57 mins    >>>>>>-------------------   23.85 %
+TOML       33 mins         >>-----------------------   06.76 %
+Docker     20 mins         >------------------------   04.11 %
+YAML       16 mins         >------------------------   03.41 %
+Markdown   13 mins         >------------------------   02.81 %
+Other      4 mins          -------------------------   00.99 %
 ```
 
 <!--END_SECTION:weeklydev-->
