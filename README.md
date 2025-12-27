@@ -69,14 +69,11 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-Total Time: 56 mins
+Total Time: 0 secs
 
-YAML        39 mins         >>>>>>>>>>>>>>>>>--------   69.17 %
-Python      9 mins          >>>>---------------------   17.41 %
-Terraform   7 mins          >>>----------------------   13.39 %
-Other       0 secs          -------------------------   00.03 %
+Python   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:weeklydev-->
