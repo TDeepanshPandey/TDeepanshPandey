@@ -69,11 +69,13 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 0 secs
+Total Time: 12 mins
 
-No activity tracked
+YAML     12 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.49 %
+Other    1 min           >>>----------------------   12.40 %
+Python   0 secs          -------------------------   00.11 %
 ```
 
 <!--END_SECTION:weeklydev-->
