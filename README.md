@@ -69,7 +69,7 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 21 March 2026 - To: 28 March 2026
+From: 22 March 2026 - To: 29 March 2026
 
 Total Time: 1 hr 7 mins
 
