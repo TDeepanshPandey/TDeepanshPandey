@@ -71,13 +71,13 @@ I have completed more than 31 certificates on online elearning platforms <a href
 <!--START_SECTION:weeklydev-->
 
 ```python
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
 Total Time: 7 mins
 
-Other      8 mins                >>>>>>>>>>>>>------------   53.42 %
-React JS   5 mins                >>>>>>>>-----------------   32.65 %
-YAML       2 mins                >>>----------------------   13.93 %
+Other      10 mins               >>>>>>>>>>>>>>>----------   58.94 %
+React JS   5 mins                >>>>>>>------------------   28.78 %
+YAML       2 mins                >>>----------------------   12.28 %
 ```
 
 <!--END_SECTION:weeklydev-->
